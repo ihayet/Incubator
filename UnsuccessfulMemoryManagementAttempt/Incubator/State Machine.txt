@@ -1,0 +1,21 @@
+Current Status 
+	Profile name, Current Temperature, Current Humidity, Running time, Stop, Back
+	
+
+View Profiles
+	Profile names, Back
+		Profile name, Temperature, Humidity, Delete, Back
+
+Create Profile
+	Name, Temperature, Humidity, Back
+
+
+Sound
+	On/Off, Back
+
+
+Screen Timeout
+	5s, 30s, 1m, 2ms
+
+
+ShutDown

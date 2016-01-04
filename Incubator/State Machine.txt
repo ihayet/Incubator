@@ -1,0 +1,10 @@
+Current Status 
+	Target, Current Temperature, Current Humidity, Stop, Back
+	
+New Settings
+	Set temperature, Set Humidity, Start, Back
+
+Sound
+	On, Off
+
+Rotation
