@@ -56,7 +56,7 @@ TX - RX - RESET - GROUND  */
 #include "Utilities.h"
 
 #define BRIGHTNESS 11                                    //pin that triggers the LCD backlight
-LiquidCrystal lcd(9, 10, 12, 13, 8, 7);                  //LiquidCrystal object
+LiquidCrystal lcd(9, 10, 12, 13, 8, 7);                  //LiquidCrystal object - HD44780 based LCD
 
 #define LEFT 4                                           //left navigation button
 #define RIGHT 2                                          //right navigation button
