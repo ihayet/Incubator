@@ -2,7 +2,7 @@
 
 An incubator is an apparatus in which environmental conditions, such as temperature and humidity, can be controlled, commonly used
 for hatching eggs. This is a simple incubator which automatically regulates the heat inside an almost hermetically sealed system, 
-based on sensor readings.
+based on sensor readings. This can be categorized as a hard real-time system.
 
 The system can be accessed from a user friendly digital user interface based on an OOP menu. The sensor 
 that I have used is the Grove Temperature and Humidity Sensor. The library files for the sensor are inside the folder named 
